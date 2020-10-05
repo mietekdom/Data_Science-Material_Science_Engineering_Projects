@@ -1,3 +1,5 @@
+NZP_10_APP2_3282019_838
+
 Dielectric thermal analysis. Thermogravimetric analysis or thermal gravimetric analysis (TGA) is a method of thermal analysis in which the mass of a sample is measured over time as the temperature changes.
 
 amp 10.00 °C/min to 1000.00 °C; Data Off ; Select Gas: Gas 2 ; Isothermal 5.0 min
